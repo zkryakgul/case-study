@@ -20,9 +20,9 @@ Imagine that you have a kubernetes cluster. This cluster orchestrates many servi
      - Create a deployment with two pods that are hosting our app instances from DockerHub (which is you've uploaded).
      - Create the necessary resources for deploying postgresql 14. Make sure the data is persistent. 
 - You should be able to test the application with the following URL pattern with HTTP GET request when you complete it :
-     - > http://{{IP}}:{{Port}}/WeatherForecast
+     - > http://{{IP}}:{{Port}}/
 
-- You could prepare one-click install script file as bash or shell to install and run the mini-cluster.
+- You could prepare one-click install script file as bash to install and run the mini-cluster.
 
 ## Solution
 Design a system that contains all rules in the details and please make a readme file to explain your solution. You could also draw diagrams and flow charts. You could use any software language, platform, tool, library, or framework except those specified as required in the details section. Please push your solution to GitHub and share the related URL with us.
