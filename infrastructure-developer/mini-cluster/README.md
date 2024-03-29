@@ -26,3 +26,6 @@ Imagine that you have a kubernetes cluster. This cluster orchestrates many servi
 
 ## Solution
 Design a system that contains all rules in the details and please make a readme file to explain your solution. You could also draw diagrams and flow charts. You could use any software language, platform, tool, library, or framework except those specified as required in the details section. Please push your solution to GitHub and share the related URL with us.
+
+## Bonus
+- Create a jenkinsfile that automates build and deploy process. Feel free to write some comment lines on it!
