@@ -1,8 +1,8 @@
 # Case Study: MLOps Infrastructure & Serving (Mini ML Cluster)
 
-**Role:**  MLOps Engineer
-**Level:**  Mid-Senior
-**Time:**  \~4-6 Hours
+- **Role:**  MLOps Engineer
+- **Level:**  Mid-Senior
+- **Time:**  \~4-6 Hours
 
 ## 1. Scenario
 
